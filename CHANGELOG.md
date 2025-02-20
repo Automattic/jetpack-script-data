@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Update the site host utility functions
 
+### Changed
+- Script data: remove unneeded specific host check.
+
 ## [0.2.0] - 2025-02-11
 ### Added
 - Added some helper funcitons for site types. [#41393]
