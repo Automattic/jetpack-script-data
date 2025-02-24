@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Added
 - Update the site host utility functions
+- User data: Added permissions to the current user object
 
 ### Changed
 - Script data: remove unneeded specific host check.
