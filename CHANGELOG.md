@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Add getSiteType() utility for categorizing sites as 'simple', 'woa', or 'jetpack'.
 
+### Changed
+- Use isWoASite() instead of isWpcomPlatformSite() in getSiteType() for more explicit WoA detection
+
 ## [0.5.5] - 2026-02-18
 ### Changed
 - Set `.repository.url` in `package.json` to the mirror repo rather than the monorepo. [#47149]
