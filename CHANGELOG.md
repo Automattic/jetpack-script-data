@@ -5,12 +5,9 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [0.6.5-alpha] - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
+## [0.6.5] - 2026-07-06
 ### Added
-- Add edit_others_posts to the UserCapabilities type.
+- Add `edit_others_posts` to the `UserCapabilities` type. [#50162]
 
 ## [0.6.4] - 2026-05-19
 ### Changed
@@ -135,7 +132,7 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Added jetpack-script-data package to consolidate the logic for Jetpack Initial state [#38430]
 
-[0.6.5-alpha]: https://github.com/Automattic/jetpack-script-data/compare/v0.6.4...v0.6.5-alpha
+[0.6.5]: https://github.com/Automattic/jetpack-script-data/compare/v0.6.4...v0.6.5
 [0.6.4]: https://github.com/Automattic/jetpack-script-data/compare/v0.6.3...v0.6.4
 [0.6.3]: https://github.com/Automattic/jetpack-script-data/compare/v0.6.2...v0.6.3
 [0.6.2]: https://github.com/Automattic/jetpack-script-data/compare/v0.6.1...v0.6.2
